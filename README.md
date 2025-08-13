@@ -1,4 +1,4 @@
-# MANAAHI
+# MANAAHI🚫
 "Khuda yaha naa daale" – AI-Powered Violation Detection & Automated Challan System
 📖 Overview
 MANAAHI is an AI-based surveillance system that leverages CCTV footage, facial recognition, and government-approved ID databases to automatically detect public violations (e.g., littering) and issue digital challans.
@@ -17,24 +17,39 @@ This project demonstrates how computer vision and automation can be used for sma
 
 🔄 Workflow
 Capture Footage from CCTV streams.
+
 Face Detection & Recognition using AI models.
+
 Database Matching with Aadhaar/Government ID photo records.
+
 Violation Detection (e.g., littering).
+
 Challan Generation with timestamp and violation type.
+
 SMS Dispatch to violator via API.
 
 ✨ Key Features
+
 🖼 Real-Time Face Detection & Recognition from CCTV feeds
+
 📚 Integration with Government ID Databases for accurate identification
+
 ⚡ Automated Violation Detection for littering and similar offenses
+
 📩 Instant SMS Notifications with challan details
+
 🗃 Violation Log Management for audit and reporting
+
 🔐 Secure Data Handling with encrypted storage options
 
 🛠 Tech Stack
+
 Language: Python 3.x
+
 Computer Vision: OpenCV, face_recognition
+
 Data Processing: NumPy, Pandas
+
 Database: SQLite / PostgreSQL
 
 📌 Example Scenario
